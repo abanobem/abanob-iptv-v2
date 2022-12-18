@@ -1,0 +1,6 @@
+{"App Config":
+	{
+		"check_url" : "https://abanob-iptv.cinfuweb.com/v2/checker.php?code=",
+		"live_url"	: "https://abanob-iptv.cinfuweb.com/v2/checker.php?code="
+	}
+}
