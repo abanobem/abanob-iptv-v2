@@ -2,7 +2,7 @@
 	{
 		"check_url" 		: "https://abanob-iptv.cinfuweb.com/v2/checker.php?code=",
 		"code_url"		: "https://linkjust.com/abanob_iptv",
-		"version" 		: "Abanob IPTV V2.3",
+		"version" 		: "2.3",
 		"version_number"	: 23,
 		"new_version_url"	: "https://www.mediafire.com/?psmuw2p2o136qig",
 		
